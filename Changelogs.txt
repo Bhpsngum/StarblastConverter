@@ -1,0 +1,8 @@
+08-01-2019 --- v3.0.1
+* Added more convert settings: Non-value format & Boolean format
+* Fixed small converting bug
+* Added links in Help Menu
+* Small bug fixed
+
+07-26-2019 --- v3.0.0
+*First Release
